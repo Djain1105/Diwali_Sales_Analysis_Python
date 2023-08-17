@@ -6,7 +6,7 @@ Tools used: Python, numpy, pandas, matplotlib, seaborn
 
 Project Learnings:
 
-Performed data cleaning & manipulation
-Performed Exploratory Data Analysis (EDA) using pandas, matplotlib and seaborn libraries
-Improved customer experience by identifying potential customers across different states, occupation, etc.
-Improved sales by identifying most selling product categories & products, which can help to plan inventory & hence meet the demands.
+1. Performed data cleaning & manipulation
+2. Performed Exploratory Data Analysis (EDA) using pandas, matplotlib and seaborn libraries
+3. Improved customer experience by identifying potential customers across different states, occupation, etc.
+4. Improved sales by identifying most selling product categories & products, which can help to plan inventory & hence meet the demands.
